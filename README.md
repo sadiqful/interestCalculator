@@ -1,5 +1,5 @@
-Description
-Task
+#Description
+#Task
 
 First create an array of objects called data with the following values:
 1. Principal- 2500, time- 1.8
@@ -7,6 +7,8 @@ First create an array of objects called data with the following values:
 3. Principal- 3000, time- 1
 4. Principal- 2000, time- 3
  
+
+
 NB: Each individual object should have 'principal' and 'time' as keys.
 Write a function called "interestCalculator" that takes an array as a single argument and does the following:
 
